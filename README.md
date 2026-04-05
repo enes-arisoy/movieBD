@@ -18,7 +18,7 @@ A simple JavaScript movie explorer that fetches and displays movie data in a cle
 
 ## 📁 Repository
 
-`https://github.com/<your-username>/<your-repo>`
+https://bit.ly/4v9PRUc
 
 ## 🎬 Demo
 
